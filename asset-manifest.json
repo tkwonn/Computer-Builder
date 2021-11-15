@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/computer-builder/static/css/main.fa79121a.chunk.css",
+    "main.js": "/computer-builder/static/js/main.2a513962.chunk.js",
+    "main.js.map": "/computer-builder/static/js/main.2a513962.chunk.js.map",
+    "runtime-main.js": "/computer-builder/static/js/runtime-main.8848163c.js",
+    "runtime-main.js.map": "/computer-builder/static/js/runtime-main.8848163c.js.map",
+    "static/js/2.61dc75ba.chunk.js": "/computer-builder/static/js/2.61dc75ba.chunk.js",
+    "static/js/2.61dc75ba.chunk.js.map": "/computer-builder/static/js/2.61dc75ba.chunk.js.map",
+    "static/js/3.4e48c625.chunk.js": "/computer-builder/static/js/3.4e48c625.chunk.js",
+    "static/js/3.4e48c625.chunk.js.map": "/computer-builder/static/js/3.4e48c625.chunk.js.map",
+    "index.html": "/computer-builder/index.html",
+    "static/css/main.fa79121a.chunk.css.map": "/computer-builder/static/css/main.fa79121a.chunk.css.map",
+    "static/js/2.61dc75ba.chunk.js.LICENSE.txt": "/computer-builder/static/js/2.61dc75ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8848163c.js",
+    "static/js/2.61dc75ba.chunk.js",
+    "static/css/main.fa79121a.chunk.css",
+    "static/js/main.2a513962.chunk.js"
+  ]
+}
