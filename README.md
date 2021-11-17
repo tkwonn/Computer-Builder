@@ -24,6 +24,7 @@
 
 * How to use API to get data by asynchronous processing.
 * How to use JSON, Promise Object, and Lambda function.
+* How to manage state using useContext and useReducer.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
