@@ -17,6 +17,13 @@
 
 ![Computer Builder App](https://user-images.githubusercontent.com/66197642/142268724-1238de71-6dbe-430e-8be6-20805143596f.png)
 
+Users would select major parts of the computer such as CPU, GPU, Memory Card, and Storage to build their own computer. 
+The benchmark of each part is stored in the data fetched by the API, and the app will calculate the scores for gaming and working based on the benchmark and compares the specs. 
+
+## What I learned
+
+How to use API to get data by asynchronous processing.
+How to use JSON, Promise Object, and Lambda function.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
