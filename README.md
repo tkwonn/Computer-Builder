@@ -35,7 +35,7 @@
 
 Taesok Kwon - [@twitter_handle](https://twitter.com/twitter_handle) - linkedIn account
 
-Project Link: [https://github.com/github_username/repo_name](https://tkwonn.github.io/computer-builder/)
+Project Link: [https://tkwonn.github.io/computer-builder/](https://tkwonn.github.io/computer-builder/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
