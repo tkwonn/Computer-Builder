@@ -23,8 +23,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-![Screen Shot 2021-11-16 at 21 51 14](https://user-images.githubusercontent.com/66197642/142268724-1238de71-6dbe-430e-8be6-20805143596f.png)
+![Computer Builder App](https://user-images.githubusercontent.com/66197642/142268724-1238de71-6dbe-430e-8be6-20805143596f.png)
 
 
 
