@@ -21,7 +21,7 @@
 ![Result Page](https://user-images.githubusercontent.com/66197642/142282330-75ac1d27-0f2a-4f95-bf24-35265731b85f.png)
 
 
-1. Users would select major parts of the computer such as CPU, GPU, Memory Card, and Storage to build their own computer. 
+1. User would select major parts of the computer such as CPU, GPU, Memory Card, and Storage to build their own computer. 
 2. It uses API to retrieve data in an asyn-chronous process and changes the options later depending on the user’s choice. Depending on each component chosen by the us-er, the specs of that computer are calculated, and the application compares whether it is for work or gaming.
 
 ![image](https://user-images.githubusercontent.com/66197642/142358708-38538030-32f1-49cd-961a-6241232787f9.png)
