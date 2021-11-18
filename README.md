@@ -20,14 +20,14 @@
 ![Select Page](https://user-images.githubusercontent.com/66197642/142282701-15155a1b-2521-47fc-80f0-cc6b00abc91d.png)
 ![Result Page](https://user-images.githubusercontent.com/66197642/142282330-75ac1d27-0f2a-4f95-bf24-35265731b85f.png)
 
-1. Users would select major parts of the computer such as CPU, GPU, Memory Card, and Storage to build their own computer. 
-2. It uses API to retrieve data in an asyn-chronous process and changes the options later depending on the user’s choice. Depending on each component chosen by the us-er, the specs of that computer are calculated, and the application compares whether it is for work or gaming.
+1. This app allows users to select major parts of the computer to build their own computer.
+2. It uses API to retrieve data in an asynchronous process. Depending on each component chosen by the user, after the specs of that computer are calculated by this app, it'll compare whether it is better for work or gaming.
 
 ## What I learned
 
 * How to use API to get data by asynchronous processing.
 * How to use JSON, Promise Object, and Lambda function.
-* How to manage state using useContext and useReducer.
+* How to deal with complex state logic (managed with useContext, useReducer).
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
