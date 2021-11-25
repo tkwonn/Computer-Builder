@@ -13,7 +13,6 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -44,14 +43,8 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- CONTACT -->
-## Contact
-
-Taesok Kwon - [@twitter_handle](https://twitter.com/twitter_handle) - linkedIn account
 
 Project Link: [https://tkwonn.github.io/computer-builder/](https://tkwonn.github.io/computer-builder/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
