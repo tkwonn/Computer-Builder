@@ -32,10 +32,6 @@
 * How to deal with complex state logic (managed with useContext, useReducer).
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 ### Built With
 
 * [React.js](https://reactjs.org/)
