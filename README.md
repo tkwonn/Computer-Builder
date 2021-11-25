@@ -1,6 +1,6 @@
 ### Computer Builder
 
-[日本語版 README はこちら](https://github.com/tkwonn/computer-builder/main/README-ja.md)
+[日本語版 README はこちら](https://github.com/tkwonn/computer-builder/blob/main/README-ja.md)
 
 
 <!-- TABLE OF CONTENTS -->
