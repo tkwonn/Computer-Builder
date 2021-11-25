@@ -1,5 +1,8 @@
 ### Computer Builder
 
+[日本語版 README はこちら](https://github.com/tkwonn/computer-builder/main/README-ja.md)
+
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
