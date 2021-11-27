@@ -2,20 +2,6 @@
 
 [日本語版 README はこちら](https://github.com/tkwonn/computer-builder/blob/main/README-ja.md)
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -36,8 +22,6 @@
 
 * [React.js](https://reactjs.org/)
 * [TailwindCSS](https://tailwindui.com/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 Project Link: [https://tkwonn.github.io/computer-builder/](https://tkwonn.github.io/computer-builder/)
