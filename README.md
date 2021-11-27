@@ -14,7 +14,7 @@
 
 * How to use API to get data by asynchronous processing.
 * How to use JSON, Promise Object, and Lambda function.
-* How to deal with complex state logic (managed with useContext, useReducer).
+* How to deal with complex state logic (managed with useContext and useReducer).
 
 
 ### Built With
