@@ -1,4 +1,4 @@
-# Computer Builder
+# Connect 4
 
 [English README is here](https://github.com/tkwonn/computer-builder/blob/main/README.md)
 
